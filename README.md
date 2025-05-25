@@ -25,3 +25,5 @@ The dataset is used to train a regression model that predicts house prices based
 - Evaluated the model using R² score and RMSE
 - Visualized feature relationships and prediction performance
 - Established a solid foundation for future improvements and deployment (e.g., with Streamlit)
+
+*Created with ❤️ by James Ngei*
